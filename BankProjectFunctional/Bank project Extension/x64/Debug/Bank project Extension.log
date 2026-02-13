@@ -1,0 +1,6 @@
+﻿  Bank project Extension.cpp
+C:\Users\ABDELLAH\Desktop\Bank project Extension\Bank project Extension\Bank project Extension.cpp(46,22): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\ABDELLAH\Desktop\Bank project Extension\Bank project Extension\Bank project Extension.cpp(332,1): warning C4715: 'UpdatetAccount': not all control paths return a value
+C:\Users\ABDELLAH\Desktop\Bank project Extension\Bank project Extension\Bank project Extension.cpp(435,1): warning C4715: 'DeletAccountByAccountNumber': not all control paths return a value
+C:\Users\ABDELLAH\Desktop\Bank project Extension\Bank project Extension\Bank project Extension.cpp(663,1): warning C4715: 'ChangeBalance': not all control paths return a value
+  Bank project Extension.vcxproj -> C:\Users\ABDELLAH\Desktop\Bank project Extension\x64\Debug\Bank project Extension.exe
