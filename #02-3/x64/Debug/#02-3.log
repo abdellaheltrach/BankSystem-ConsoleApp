@@ -1,2 +1,65 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (#02-3.vcxproj, draft.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  #02-3.vcxproj -> C:\Users\ABDELLAH\Desktop\programming\projects\Homework\Bank System\x64\Debug\Bank System.exe
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (#02-3.vcxproj, draft.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsString.h(33,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsString.h(162,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsString.h(270,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsString.h(293,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsString.h(314,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsString.h(429,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsUser.h(161,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../#02-3/Main.cpp')
+      C:\Users\ABDELLAH\Desktop\Bank-Project\(145,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsBankClient.h(162,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../#02-3/Main.cpp')
+      C:\Users\ABDELLAH\Desktop\Bank-Project\(136,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsBankClient.h(23,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsBankClient.h(144,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsBankClient.h(145,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsBankClient.h(146,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsBankClient.h(291,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsBankClient.h(303,19): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsClientsListScreen.h(28,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsTotalBalancesScreen.h(36,66): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsUsersListScreen.h(23,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsCurrency.h(22,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../#02-3/Main.cpp')
+  
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsBankClient.h(266,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsUser.h(292,1): warning C4715: 'clsUser::save': not all control paths return a value
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsCurrency.h(150,1): warning C4715: 'clsCurrency::findByCode': not all control paths return a value
+C:\Users\ABDELLAH\Desktop\Bank-Project\#02-3\clsCurrency.h(174,1): warning C4715: 'clsCurrency::findByCountry': not all control paths return a value
+  #02-3.vcxproj -> C:\Users\ABDELLAH\Desktop\Bank-Project\x64\Debug\Bank System.exe
